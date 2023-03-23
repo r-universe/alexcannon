@@ -3,3 +3,28 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "CaDENCE"]
+	path = CaDENCE
+	url = https://github.com/cran/CaDENCE
+	shallow = true
+	registered = true
+[submodule "GEVcdn"]
+	path = GEVcdn
+	url = https://github.com/cran/GEVcdn
+	shallow = true
+	registered = true
+[submodule "MBC"]
+	path = MBC
+	url = https://github.com/cran/MBC
+	shallow = true
+	registered = true
+[submodule "monmlp"]
+	path = monmlp
+	url = https://github.com/cran/monmlp
+	shallow = true
+	registered = true
+[submodule "qrnn"]
+	path = qrnn
+	url = https://github.com/cran/qrnn
+	shallow = true
+	registered = true
