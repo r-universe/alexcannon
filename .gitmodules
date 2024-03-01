@@ -14,6 +14,3 @@
 [submodule "monmlp"]
 	path = monmlp
 	url = https://github.com/cran/monmlp
-[submodule "qrnn"]
-	path = qrnn
-	url = https://github.com/cran/qrnn
